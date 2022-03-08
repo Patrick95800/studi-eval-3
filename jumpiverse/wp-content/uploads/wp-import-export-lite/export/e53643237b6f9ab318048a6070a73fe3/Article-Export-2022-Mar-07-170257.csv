@@ -1,0 +1,55 @@
+ID,Title,Content,Excerpt,Date,"Post Type",Permalink
+1,"Bonjour tout le monde !","<!-- wp:paragraph -->
+<p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p>
+<!-- /wp:paragraph -->",,"2022-03-02 14:38:09",post,https://localhost/jumpiverse/?p=1
+39,"Tron revient en force","<!-- wp:image {""id"":87,""sizeSlug"":""full"",""linkDestination"":""none""} -->
+<figure class=""wp-block-image size-full""><img src=""https://localhost/jumpiverse/wp-content/uploads/2022/03/tron.jpg"" alt="""" class=""wp-image-87""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Le film, qui traite du monde&nbsp;informatique&nbsp;et présente à la fois une plongée dans le&nbsp;monde virtuel&nbsp;et l'existence d'une&nbsp;intelligence artificielle, est célèbre pour traiter du monde informatique alors qu'à l'époque, la&nbsp;souris&nbsp;à boule faisait à peine ses débuts. Le film présente également la particularité d'avoir été le premier long métrage dont la&nbsp;conception a été assistée par ordinateur&nbsp;pour la plus grande partie de ses scènes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Précurseur en matière de réalité virtuelle, Tron propose désormais des simulateurs de courses de moto dans la grille. </p>
+<!-- /wp:paragraph -->",,"2022-03-02 20:51:08",post,https://localhost/jumpiverse/pandora/
+45,"Disney VR, l'après Disney +","<!-- wp:image {""id"":88,""sizeSlug"":""full"",""linkDestination"":""none""} -->
+<figure class=""wp-block-image size-full""><img src=""https://localhost/jumpiverse/wp-content/uploads/2022/03/disney.jpg"" alt="""" class=""wp-image-88""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>The Walt Disney Company</strong>&nbsp;est une&nbsp;entreprise&nbsp;américaine&nbsp;créée en&nbsp;1923&nbsp;par&nbsp;Walt Disney&nbsp;sous le nom&nbsp;<strong>Disney Brothers Studios</strong>. Elle est, en 2012, le&nbsp;premier groupe de divertissement au monde, présent dans l'industrie des&nbsp;médias&nbsp;(journaux, radios, télévision, internet) avec des émissions, des séries télévisées, du cinéma avec des courts-métrages d'animation (dans lesquels figurent de célèbres personnages tels que&nbsp;Mickey Mouse,&nbsp;Donald Duck,&nbsp;Dingo, etc.), des&nbsp;longs métrages d'animation&nbsp;et des films en&nbsp;prises de vues réelles, dans l'industrie du tourisme et de loisirs (parcs d'attractions dont&nbsp;Disneyland&nbsp;et&nbsp;Walt Disney World Resort, hôtels, bateaux de croisière), ainsi que dans les produits dérivés de ses nombreuses productions (jeux et jouets, jeux vidéo, vêtements, etc.). Elle assure aussi la distribution de productions de tiers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Disney ne compte pas se laisser depasser par les avancées technologiques en matière de réalité vituelle. L'annonce de la création de la branche <strong>Disney VR</strong> promet des expériences expectionelles. Qui n'a pas rêvé de faire le tour du monde sur le tapis magique d'Aladdin ? Demain nous pourrions découvrir les grands classiques de Disney d'une toute autre manière. </p>
+<!-- /wp:paragraph -->",,"2022-03-02 20:55:22",post,https://localhost/jumpiverse/endor/
+132,"Exposition Universelle sous le signe de la VR","<!-- wp:paragraph -->
+<p>La prochaine exposition universelle aura lieu le 10 avril à Boston. Le thème principal sera la réalité virtuelle. Ce sera l'occassion de tester les dernières avancées technologiques en matière de VR et ainsi constaté que les frontières sont de plus en plus fine. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {""linkTo"":""none""} -->
+<figure class=""wp-block-gallery has-nested-images columns-default is-cropped""><!-- wp:image {""id"":133,""sizeSlug"":""large"",""linkDestination"":""none""} -->
+<figure class=""wp-block-image size-large""><img src=""https://localhost/jumpiverse/wp-content/uploads/2022/03/pexels-mikhail-nilov-7887259.jpg"" alt="""" class=""wp-image-133""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {""id"":134,""sizeSlug"":""large"",""linkDestination"":""none""} -->
+<figure class=""wp-block-image size-large""><img src=""https://localhost/jumpiverse/wp-content/uploads/2022/03/pexels-tima-miroshnichenko-6498962.jpg"" alt="""" class=""wp-image-134""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {""id"":135,""sizeSlug"":""large"",""linkDestination"":""none""} -->
+<figure class=""wp-block-image size-large""><img src=""https://localhost/jumpiverse/wp-content/uploads/2022/03/pexels-tima-miroshnichenko-6498965.jpg"" alt="""" class=""wp-image-135""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {""id"":136,""sizeSlug"":""large"",""linkDestination"":""none""} -->
+<figure class=""wp-block-image size-large""><img src=""https://localhost/jumpiverse/wp-content/uploads/2022/03/pexels-cottonbro-4009589.jpg"" alt="""" class=""wp-image-136""/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->",,"2022-03-03 22:49:56",post,https://localhost/jumpiverse/expo-universelle/
